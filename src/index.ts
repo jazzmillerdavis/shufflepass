@@ -1,4 +1,4 @@
-export function ShufflePass(): { password: string, colour: string, animal: string, number: number, symbol: string } {
+export default function ShufflePass(): { password: string, colour: string, animal: string, number: number, symbol: string } {
 
     const colours = [
         {
