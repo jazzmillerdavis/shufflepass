@@ -1,4 +1,4 @@
-export default function ShufflePass(): { password: string, colour: string, animal: string, number: number, symbol: string } {
+export default function ShufflePass(): { password: string, colour: string, colourCode: string, animal: string, number: number, symbol: string } {
 
     const colours = [
         {
@@ -2055,7 +2055,8 @@ export default function ShufflePass(): { password: string, colour: string, anima
 
     return {
         password: (randColour.name + randAnimal + number + keyValue).toString(),
-        colour: (randColour.value).toString(),
+        colour: (randColour.name).toString(),
+        colourCode: (randColour.value).toString(),
         animal: randAnimal.toString(),
         number: Number(number),
         symbol: keyValue.toString(),
