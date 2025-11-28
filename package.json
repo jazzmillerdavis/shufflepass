@@ -1,10 +1,10 @@
 {
   "name": "shufflepass",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A simple, lightweight memorable random password generator.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
-  "keywords": [],
+  "keywords": ["security", "tools", "generator", "random", "password"],
   "author": "Jazz Miller-Davis",
   "license": "MIT",
   "type": "module",
