@@ -3,19 +3,19 @@ export default function ShufflePass(): { password: string, colour: string, colou
     const colours = [
         {
             "name": "Abbey",
-            "value": "#4c4f56"
+            "value": "#4C4F56"
         },
         {
             "name": "Acadia",
-            "value": "#1b1404"
+            "value": "#1B1404"
         },
         {
             "name": "Acapulco",
-            "value": "#7cb0a1"
+            "value": "#7CB0A1"
         },
         {
             "name": "Aero",
-            "value": "#7cb9e8"
+            "value": "#7CB9E8"
         },
         {
             "name": "Affair",
@@ -23,119 +23,75 @@ export default function ShufflePass(): { password: string, colour: string, colou
         },
         {
             "name": "Akaroa",
-            "value": "#d4c4a8"
+            "value": "#D4C4A8"
         },
         {
             "name": "Alabaster",
-            "value": "#fafafa"
+            "value": "#F2F0E6"
         },
         {
             "name": "Algae",
-            "value": "#93dfb8"
+            "value": "#93DFB8"
         },
         {
             "name": "Alloy",
-            "value": "#c46210"
+            "value": "#C46210"
         },
         {
             "name": "Allports",
-            "value": "#0076a3"
+            "value": "#0076A3"
         },
         {
             "name": "Almond",
-            "value": "#efdecd"
+            "value": "#EFDECD"
         },
         {
             "name": "Alpine",
-            "value": "#af8f2c"
+            "value": "#AF8F2C"
         },
         {
             "name": "Alto",
-            "value": "#dbdbdb"
+            "value": "#DBDBDB"
         },
         {
             "name": "Aluminium",
-            "value": "#a9acb6"
+            "value": "#A9ACB6"
         },
         {
-            "name": "Eclipse",
-            "value": "#311c17"
+            "name": "Amaranth",
+            "value": "#E52B50"
         },
         {
-            "name": "Ecru",
-            "value": "#c2b280"
+            "name": "Amazonite",
+            "value": "#00C4B0"
         },
         {
-            "name": "Ecstasy",
-            "value": "#fa7814"
+            "name": "Amber",
+            "value": "#FFBF00"
         },
         {
-            "name": "Eden",
-            "value": "#105852"
-        },
-        {
-            "name": "Edgewater",
-            "value": "#c8e3d7"
-        },
-        {
-            "name": "Edward",
-            "value": "#a2aeab"
-        },
-        {
-            "name": "Eerie",
-            "value": "#1b1b1b"
-        },
-        {
-            "name": "Egg",
-            "value": "#fff4dd"
-        },
-        {
-            "name": "Eggplant",
-            "value": "#614051"
-        },
-        {
-            "name": "Eggshell",
-            "value": "#f0ead6"
-        },
-        {
-            "name": "Egyptian",
-            "value": "#1034a6"
-        },
-        {
-            "name": "Electric",
-            "value": "#7df9ff"
-        },
-        {
-            "name": "Elephant",
-            "value": "#123447"
-        },
-        {
-            "name": "Elm",
-            "value": "#1c7c7d"
-        },
-        {
-            "name": "Emerald",
-            "value": "#50c878"
+            "name": "Amethyst",
+            "value": "#9966CC"
         },
         {
             "name": "Apricot",
-            "value": "#fbceb1"
+            "value": "#FBCEB1"
         },
         {
             "name": "Aqua",
-            "value": "#014b43"
+            "value": "#00FFFF"
         },
         {
             "name": "Aquamarine",
-            "value": "#7fffd4"
+            "value": "#7FFFD4"
         },
         {
             "name": "Arapawa",
-            "value": "#110c6c"
+            "value": "#110C6C"
         },
         {
             "name": "Armadillo",
-            "value": "#433e37"
+            "value": "#433E37"
         },
         {
             "name": "Arrowtown",
@@ -143,75 +99,79 @@ export default function ShufflePass(): { password: string, colour: string, colou
         },
         {
             "name": "Arsenic",
-            "value": "#3b444b"
+            "value": "#3B444B"
         },
         {
             "name": "Artichoke",
-            "value": "#8f9779"
+            "value": "#8F9779"
         },
         {
             "name": "Ash",
-            "value": "#c6c3b5"
+            "value": "#C6C3B5"
         },
         {
             "name": "Asparagus",
-            "value": "#87a96b"
+            "value": "#87A96B"
         },
         {
             "name": "Asphalt",
-            "value": "#130a06"
+            "value": "#130A06"
         },
         {
             "name": "Astra",
-            "value": "#faeab9"
+            "value": "#FAEAB9"
         },
         {
             "name": "Astral",
-            "value": "#327da0"
+            "value": "#327DA0"
         },
         {
             "name": "Astronaut",
-            "value": "#283a77"
+            "value": "#283A77"
         },
         {
             "name": "Atlantis",
-            "value": "#97cd2d"
+            "value": "#97CD2D"
         },
         {
             "name": "Atoll",
-            "value": "#0a6f75"
+            "value": "#0A6F75"
         },
         {
             "name": "Aubergine",
-            "value": "#3b0910"
+            "value": "#3B0910"
         },
         {
             "name": "Auburn",
-            "value": "#a52a2a"
+            "value": "#A52A2A"
         },
         {
             "name": "Aureolin",
-            "value": "#fdee00"
+            "value": "#FDEE00"
         },
         {
             "name": "Avocado",
             "value": "#568203"
         },
         {
+            "name": "Awesome",
+            "value": "#FF2052"
+        },
+        {
             "name": "Axolotl",
-            "value": "#4e6649"
+            "value": "#4E6649"
         },
         {
             "name": "Azalea",
-            "value": "#f7c8da"
+            "value": "#F7C8DA"
         },
         {
             "name": "Aztec",
-            "value": "#0d1c19"
+            "value": "#0D1C19"
         },
         {
             "name": "Azure",
-            "value": "#007fff"
+            "value": "#007FFF"
         },
         {
             "name": "Bahama",
@@ -219,23 +179,23 @@ export default function ShufflePass(): { password: string, colour: string, colou
         },
         {
             "name": "Bahia",
-            "value": "#a5cb0c"
+            "value": "#A5CB0C"
         },
         {
             "name": "Baja",
-            "value": "#fff8d1"
+            "value": "#FFF8D1"
         },
         {
             "name": "Baltic",
-            "value": "#2a2630"
+            "value": "#2A2630"
         },
         {
             "name": "Bamboo",
-            "value": "#da6304"
+            "value": "#DA6304"
         },
         {
             "name": "Banana",
-            "value": "#fae7b5"
+            "value": "#FAE7B5"
         },
         {
             "name": "Bandicoot",
@@ -243,19 +203,19 @@ export default function ShufflePass(): { password: string, colour: string, colou
         },
         {
             "name": "Barberry",
-            "value": "#ded717"
+            "value": "#DED717"
         },
         {
             "name": "Barbie",
-            "value": "#e0218a"
+            "value": "#E0218A"
         },
         {
             "name": "Barn",
-            "value": "#7c0a02"
+            "value": "#7C0A02"
         },
         {
             "name": "Barossa",
-            "value": "#44012d"
+            "value": "#44012D"
         },
         {
             "name": "Bastille",
@@ -263,43 +223,47 @@ export default function ShufflePass(): { password: string, colour: string, colou
         },
         {
             "name": "Bayleaf",
-            "value": "#7da98d"
+            "value": "#7DA98D"
         },
         {
             "name": "Bazaar",
-            "value": "#98777b"
-        },
-        {
-            "name": "Bedazzled",
-            "value": "#2e5894"
+            "value": "#98777B"
         },
         {
             "name": "Beaver",
-            "value": "#9f8170"
+            "value": "#9F8170"
+        },
+        {
+            "name": "Bedazzled",
+            "value": "#2E5894"
         },
         {
             "name": "Beeswax",
-            "value": "#fef2c7"
+            "value": "#FEF2C7"
+        },
+        {
+            "name": "Begonia",
+            "value": "#FA6E79"
         },
         {
             "name": "Beige",
-            "value": "#f5f5dc"
+            "value": "#F5F5DC"
         },
         {
             "name": "Belgion",
-            "value": "#add8ff"
+            "value": "#ADD8FF"
         },
         {
             "name": "Bermuda",
-            "value": "#7dd8c6"
+            "value": "#7DD8C6"
         },
         {
             "name": "Bianca",
-            "value": "#fcfbf3"
+            "value": "#FCFBF3"
         },
         {
             "name": "Bilbao",
-            "value": "#327c14"
+            "value": "#327C14"
         },
         {
             "name": "Birch",
@@ -307,7 +271,7 @@ export default function ShufflePass(): { password: string, colour: string, colou
         },
         {
             "name": "Biscay",
-            "value": "#1b3162"
+            "value": "#1B3162"
         },
         {
             "name": "Bismark",
@@ -315,11 +279,11 @@ export default function ShufflePass(): { password: string, colour: string, colou
         },
         {
             "name": "Bisque",
-            "value": "#ffe4c4"
+            "value": "#FFE4C4"
         },
         {
             "name": "Bistre",
-            "value": "#3d2b1f"
+            "value": "#3D2B1F"
         },
         {
             "name": "Bitter",
@@ -327,11 +291,11 @@ export default function ShufflePass(): { password: string, colour: string, colou
         },
         {
             "name": "Bittersweet",
-            "value": "#fe6f5e"
+            "value": "#FE6F5E"
         },
         {
             "name": "Bizarre",
-            "value": "#eededa"
+            "value": "#EEDEDA"
         },
         {
             "name": "Black",
@@ -339,111 +303,111 @@ export default function ShufflePass(): { password: string, colour: string, colou
         },
         {
             "name": "Blackbean",
-            "value": "#3d0c02"
+            "value": "#3D0C02"
         },
         {
             "name": "Blackberry",
-            "value": "#4d0135"
+            "value": "#4D0135"
         },
         {
             "name": "Blackcurrant",
-            "value": "#32293a"
+            "value": "#32293A"
         },
         {
             "name": "Blanched",
-            "value": "#ffebcd"
+            "value": "#FFEBCD"
         },
         {
             "name": "Blaze",
-            "value": "#ff6700"
+            "value": "#FF6700"
         },
         {
             "name": "Bleach",
-            "value": "#fef3d8"
+            "value": "#FEF3D8"
         },
         {
             "name": "Bleached",
-            "value": "#2c2133"
+            "value": "#2C2133"
         },
         {
             "name": "Blizzard",
-            "value": "#a3e3ed"
+            "value": "#A3E3ED"
         },
         {
             "name": "Blond",
-            "value": "#faf0be"
+            "value": "#FAF0BE"
         },
         {
             "name": "Blossom",
-            "value": "#dcb4bc"
+            "value": "#DCB4BC"
         },
         {
             "name": "Blue",
-            "value": "#0000ff"
+            "value": "#0000FF"
         },
         {
             "name": "Bluebell",
-            "value": "#a2a2d0"
+            "value": "#A2A2D0"
         },
         {
             "name": "Blueberry",
-            "value": "#4f86f7"
+            "value": "#4F86F7"
         },
         {
             "name": "Bluebonnet",
-            "value": "#1c1cf0"
+            "value": "#1C1CF0"
         },
         {
             "name": "Blumine",
-            "value": "#18587a"
+            "value": "#18587A"
         },
         {
             "name": "Blush",
-            "value": "#de5d83"
+            "value": "#DE5D83"
         },
         {
             "name": "Bole",
-            "value": "#79443b"
+            "value": "#79443B"
         },
         {
             "name": "Bombay",
-            "value": "#afb1b8"
+            "value": "#AFB1B8"
         },
         {
             "name": "Bondi",
-            "value": "#0095b6"
+            "value": "#0095B6"
         },
         {
             "name": "Bone",
-            "value": "#e3dac9"
+            "value": "#E3DAC9"
         },
         {
             "name": "Bordeaux",
-            "value": "#5c0120"
+            "value": "#5C0120"
         },
         {
             "name": "Bossanova",
-            "value": "#4e2a5a"
+            "value": "#4E2A5A"
         },
         {
             "name": "Botticelli",
-            "value": "#c7dde5"
+            "value": "#C7DDE5"
         },
         {
             "name": "Bottle",
-            "value": "#006a4e"
+            "value": "#006A4E"
         },
         {
             "name": "Boulder",
-            "value": "#7a7a7a"
+            "value": "#7A7A7A"
         },
         {
             "name": "Bouquet",
-            "value": "#ae809e"
+            "value": "#AE809E"
         },
         {
             "name": "Bourbon",
-            "value": "#ba6f1e"
+            "value": "#BA6F1E"
         },
         {
             "name": "Boysenberry",
@@ -451,75 +415,75 @@ export default function ShufflePass(): { password: string, colour: string, colou
         },
         {
             "name": "Bracken",
-            "value": "#4a2a04"
+            "value": "#4A2A04"
         },
         {
             "name": "Brandy",
-            "value": "#dec196"
+            "value": "#DEC196"
         },
         {
             "name": "Brass",
-            "value": "#b5a642"
+            "value": "#B5A642"
         },
         {
             "name": "Brick",
-            "value": "#cb4154"
+            "value": "#CB4154"
         },
         {
             "name": "Bridesmaid",
-            "value": "#fef0ec"
+            "value": "#FEF0EC"
         },
         {
             "name": "Bronco",
-            "value": "#aba196"
+            "value": "#ABA196"
         },
         {
             "name": "Bronze",
-            "value": "#cd7f32"
+            "value": "#CD7F32"
         },
         {
             "name": "Bronzetone",
-            "value": "#4d400f"
+            "value": "#4D400F"
         },
         {
             "name": "Broom",
-            "value": "#ffec13"
+            "value": "#FFEC13"
         },
         {
             "name": "Brown",
-            "value": "#964b00"
+            "value": "#964B00"
         },
         {
             "name": "Brunswick",
-            "value": "#1b4d3e"
+            "value": "#1B4D3E"
         },
         {
             "name": "Bubblegum",
-            "value": "#ffc1cc"
+            "value": "#FFC1CC"
         },
         {
             "name": "Bubbles",
-            "value": "#e7feff"
+            "value": "#E7FEFF"
         },
         {
             "name": "Buccaneer",
-            "value": "#622f30"
+            "value": "#622F30"
         },
         {
             "name": "Bud",
-            "value": "#a8ae9c"
+            "value": "#A8AE9C"
         },
         {
             "name": "Buff",
-            "value": "#f0dc82"
+            "value": "#F0DC82"
         },
         {
             "name": "Bunker",
-            "value": "#0d1117"
+            "value": "#0D1117"
         },
         {
             "name": "Bunting",
-            "value": "#151f4c"
+            "value": "#151F4C"
         },
         {
             "name": "Burgundy",
@@ -527,35 +491,35 @@ export default function ShufflePass(): { password: string, colour: string, colou
         },
         {
             "name": "Burlywood",
-            "value": "#deb887"
+            "value": "#DEB887"
         },
         {
             "name": "Burnham",
-            "value": "#002e20"
+            "value": "#002E20"
         },
         {
             "name": "Burning",
-            "value": "#ff7034"
+            "value": "#FF7034"
         },
         {
             "name": "Bush",
-            "value": "#0d2e1c"
+            "value": "#0D2E1C"
         },
         {
             "name": "Buttercup",
-            "value": "#f3ad16"
+            "value": "#F3AD16"
         },
         {
             "name": "Buttermilk",
-            "value": "#fff1b5"
+            "value": "#FFF1B5"
         },
         {
             "name": "Buttery",
-            "value": "#fffcea"
+            "value": "#FFFCEA"
         },
         {
             "name": "Byzantine",
-            "value": "#bd33a4"
+            "value": "#BD33A4"
         },
         {
             "name": "Byzantium",
@@ -563,7 +527,7 @@ export default function ShufflePass(): { password: string, colour: string, colou
         },
         {
             "name": "Cabaret",
-            "value": "#d94972"
+            "value": "#D94972"
         },
         {
             "name": "Cactus",
@@ -575,31 +539,35 @@ export default function ShufflePass(): { password: string, colour: string, colou
         },
         {
             "name": "Cadillac",
-            "value": "#b04c6a"
+            "value": "#B04C6A"
         },
         {
             "name": "Cadmium",
-            "value": "#ed872d"
+            "value": "#ED872D"
         },
         {
             "name": "Calico",
-            "value": "#e0c095"
+            "value": "#E0C095"
         },
         {
             "name": "California",
-            "value": "#fe9d04"
+            "value": "#FE9D04"
         },
         {
             "name": "Calypso",
-            "value": "#31728d"
+            "value": "#31728D"
         },
         {
             "name": "Camarone",
-            "value": "#00581a"
+            "value": "#00581A"
         },
         {
             "name": "Cambridge",
-            "value": "#a3c1ad"
+            "value": "#A3C1AD"
+        },
+        {
+            "name": "Camel",
+            "value": "#C19A6B"
         },
         {
             "name": "Camelot",
@@ -607,55 +575,55 @@ export default function ShufflePass(): { password: string, colour: string, colou
         },
         {
             "name": "Cameo",
-            "value": "#d9b99b"
+            "value": "#D9B99B"
         },
         {
             "name": "Camouflage",
-            "value": "#3c3910"
+            "value": "#3C3910"
         },
         {
             "name": "Canary",
-            "value": "#f3fb62"
+            "value": "#FFFF99"
         },
         {
             "name": "Candlelight",
-            "value": "#fcd917"
+            "value": "#FCD917"
         },
         {
             "name": "Candyapple",
-            "value": "#ff0800"
+            "value": "#FF0800"
         },
         {
             "name": "Caper",
-            "value": "#dcedb4"
+            "value": "#DCEDB4"
         },
         {
             "name": "Capri",
-            "value": "#00bfff"
+            "value": "#00BFFF"
         },
         {
             "name": "Caramel",
-            "value": "#ffddaf"
+            "value": "#FFDDAF"
         },
         {
             "name": "Cararra",
-            "value": "#eeeee8"
+            "value": "#EEEEE8"
         },
         {
             "name": "Cardinal",
-            "value": "#c41e3a"
+            "value": "#C41E3A"
         },
         {
             "name": "Caribbean",
-            "value": "#00cc99"
+            "value": "#00CC99"
         },
         {
             "name": "Carissma",
-            "value": "#ea88a8"
+            "value": "#EA88A8"
         },
         {
             "name": "Carla",
-            "value": "#f3ffd8"
+            "value": "#F3FFD8"
         },
         {
             "name": "Carmine",
@@ -663,47 +631,47 @@ export default function ShufflePass(): { password: string, colour: string, colou
         },
         {
             "name": "Carnation",
-            "value": "#f95a61"
+            "value": "#F95A61"
         },
         {
             "name": "Carnelian",
-            "value": "#b31b1b"
+            "value": "#B31B1B"
         },
         {
             "name": "Carrot",
-            "value": "#ed9121"
+            "value": "#ED9121"
         },
         {
             "name": "Casablanca",
-            "value": "#f8b853"
+            "value": "#F8B853"
         },
         {
             "name": "Casal",
-            "value": "#2f6168"
+            "value": "#2F6168"
         },
         {
             "name": "Cascade",
-            "value": "#8ba9a5"
+            "value": "#8BA9A5"
         },
         {
             "name": "Cashmere",
-            "value": "#e6bea5"
+            "value": "#E6BEA5"
         },
         {
             "name": "Casper",
-            "value": "#adbed1"
+            "value": "#ADBED1"
         },
         {
             "name": "Castleton",
-            "value": "#00563b"
+            "value": "#00563B"
         },
         {
             "name": "Castro",
-            "value": "#52001f"
+            "value": "#52001F"
         },
         {
             "name": "Catalina",
-            "value": "#062a78"
+            "value": "#062A78"
         },
         {
             "name": "Catawba",
@@ -711,31 +679,31 @@ export default function ShufflePass(): { password: string, colour: string, colou
         },
         {
             "name": "Cedar",
-            "value": "#3e1c14"
+            "value": "#3E1C14"
         },
         {
             "name": "Ceil",
-            "value": "#92a1cf"
+            "value": "#92A1CF"
         },
         {
             "name": "Celadon",
-            "value": "#ace1af"
+            "value": "#ACE1AF"
         },
         {
             "name": "Celery",
-            "value": "#b8c25d"
+            "value": "#B8C25D"
         },
         {
             "name": "Celeste",
-            "value": "#b2ffff"
+            "value": "#B2FFFF"
         },
         {
             "name": "Celestial",
-            "value": "#4997d0"
+            "value": "#4997D0"
         },
         {
             "name": "Cello",
-            "value": "#1e385b"
+            "value": "#1E385B"
         },
         {
             "name": "Celtic",
@@ -743,39 +711,39 @@ export default function ShufflePass(): { password: string, colour: string, colou
         },
         {
             "name": "Cement",
-            "value": "#8d7662"
+            "value": "#8D7662"
         },
         {
             "name": "Cerise",
-            "value": "#de3163"
+            "value": "#DE3163"
         },
         {
             "name": "Cerulean",
-            "value": "#007ba7"
+            "value": "#007BA7"
         },
         {
             "name": "Chalky",
-            "value": "#eed794"
+            "value": "#EED794"
         },
         {
             "name": "Chambray",
-            "value": "#354e8c"
+            "value": "#354E8C"
         },
         {
             "name": "Chamois",
-            "value": "#eddcb1"
+            "value": "#EDDCB1"
         },
         {
             "name": "Chamoisee",
-            "value": "#a0785a"
+            "value": "#A0785A"
         },
         {
             "name": "Champagne",
-            "value": "#f7e7ce"
+            "value": "#F7E7CE"
         },
         {
             "name": "Chantilly",
-            "value": "#f8c3df"
+            "value": "#F8C3DF"
         },
         {
             "name": "Charade",
@@ -783,51 +751,55 @@ export default function ShufflePass(): { password: string, colour: string, colou
         },
         {
             "name": "Charcoal",
-            "value": "#36454f"
+            "value": "#36454F"
         },
         {
             "name": "Chardon",
-            "value": "#fff3f1"
+            "value": "#FFF3F1"
         },
         {
             "name": "Chardonnay",
-            "value": "#ffcd8c"
+            "value": "#FFCD8C"
         },
         {
             "name": "Charlotte",
-            "value": "#baeef9"
+            "value": "#BAEEF9"
         },
         {
             "name": "Charm",
-            "value": "#d47494"
+            "value": "#D47494"
         },
         {
             "name": "Chartreuse",
-            "value": "#dfff00"
+            "value": "#DFFF00"
         },
         {
             "name": "Chatelle",
-            "value": "#bdb3c7"
+            "value": "#BDB3C7"
         },
         {
             "name": "Chenin",
-            "value": "#dfcd6f"
+            "value": "#DFCD6F"
         },
         {
             "name": "Cherokee",
-            "value": "#fcda98"
+            "value": "#FCDA98"
+        },
+        {
+            "name": "Cherry",
+            "value": "#DE3163"
         },
         {
             "name": "Cherryblossom",
-            "value": "#ffb7c5"
+            "value": "#FFB7C5"
         },
         {
             "name": "Cherrywood",
-            "value": "#651a14"
+            "value": "#651A14"
         },
         {
             "name": "Cherub",
-            "value": "#f8d9e9"
+            "value": "#F8D9E9"
         },
         {
             "name": "Chestnut",
@@ -835,75 +807,75 @@ export default function ShufflePass(): { password: string, colour: string, colou
         },
         {
             "name": "Chicago",
-            "value": "#5d5c58"
+            "value": "#5D5C58"
         },
         {
             "name": "Chiffon",
-            "value": "#f1ffc8"
+            "value": "#F1FFC8"
         },
         {
             "name": "Chino",
-            "value": "#cec7a7"
+            "value": "#CEC7A7"
         },
         {
             "name": "Chinook",
-            "value": "#a8e3bd"
+            "value": "#A8E3BD"
         },
         {
             "name": "Chlorophyll",
-            "value": "#4aff00"
+            "value": "#4AFF00"
         },
         {
             "name": "Chocolate",
-            "value": "#7b3f00"
+            "value": "#7B3F00"
         },
         {
             "name": "Christalle",
-            "value": "#33036b"
+            "value": "#33036B"
         },
         {
             "name": "Christi",
-            "value": "#67a712"
+            "value": "#67A712"
         },
         {
             "name": "Christine",
-            "value": "#e7730a"
+            "value": "#E7730A"
         },
         {
             "name": "Cinder",
-            "value": "#0e0e18"
+            "value": "#0E0E18"
         },
         {
             "name": "Cinderella",
-            "value": "#fde1dc"
+            "value": "#FDE1DC"
         },
         {
             "name": "Cinereous",
-            "value": "#98817b"
+            "value": "#98817B"
         },
         {
             "name": "Cinnabar",
-            "value": "#e34234"
+            "value": "#E34234"
         },
         {
             "name": "Cinnamon",
-            "value": "#cd607e"
+            "value": "#D2691E"
         },
         {
             "name": "Cioccolato",
-            "value": "#55280c"
+            "value": "#55280C"
         },
         {
             "name": "Citrine",
-            "value": "#e4d00a"
+            "value": "#E4D00A"
         },
         {
             "name": "Citron",
-            "value": "#9fa91f"
+            "value": "#9FA91F"
         },
         {
             "name": "Citrus",
-            "value": "#a1c50a"
+            "value": "#A1C50A"
         },
         {
             "name": "Clairvoyant",
@@ -911,35 +883,35 @@ export default function ShufflePass(): { password: string, colour: string, colou
         },
         {
             "name": "Clamshell",
-            "value": "#d4b6af"
+            "value": "#D4B6AF"
         },
         {
             "name": "Claret",
-            "value": "#7f1734"
+            "value": "#7F1734"
         },
         {
             "name": "Clay",
-            "value": "#8a8360"
+            "value": "#8A8360"
         },
         {
             "name": "Clementine",
-            "value": "#e96e00"
+            "value": "#E96E00"
         },
         {
             "name": "Clinker",
-            "value": "#371d09"
+            "value": "#371D09"
         },
         {
             "name": "Cloud",
-            "value": "#c7c4bf"
+            "value": "#C7C4BF"
         },
         {
             "name": "Cloudburst",
-            "value": "#202e54"
+            "value": "#202E54"
         },
         {
             "name": "Cloudy",
-            "value": "#aca59f"
+            "value": "#ACA59F"
         },
         {
             "name": "Clover",
@@ -947,135 +919,135 @@ export default function ShufflePass(): { password: string, colour: string, colou
         },
         {
             "name": "Cobalt",
-            "value": "#0047ab"
+            "value": "#0047AB"
         },
         {
             "name": "Cocoa",
-            "value": "#d2691e"
+            "value": "#D2691E"
         },
         {
             "name": "Coconut",
-            "value": "#965a3e"
+            "value": "#965A3E"
         },
         {
             "name": "Coffee",
-            "value": "#6f4e37"
+            "value": "#6F4E37"
         },
         {
             "name": "Cognac",
-            "value": "#9f381d"
+            "value": "#9F381D"
         },
         {
             "name": "Cola",
-            "value": "#3f2500"
+            "value": "#3F2500"
         },
         {
             "name": "Colonial",
-            "value": "#ffedbc"
+            "value": "#FFEDBC"
         },
         {
             "name": "Comet",
-            "value": "#5c5d75"
+            "value": "#5C5D75"
         },
         {
             "name": "Como",
-            "value": "#517c66"
+            "value": "#517C66"
         },
         {
             "name": "Conch",
-            "value": "#c9d9d2"
+            "value": "#C9D9D2"
         },
         {
             "name": "Concord",
-            "value": "#7c7b7a"
+            "value": "#7C7B7A"
         },
         {
             "name": "Concrete",
-            "value": "#f2f2f2"
+            "value": "#F2F2F2"
         },
         {
             "name": "Confetti",
-            "value": "#e9d75a"
+            "value": "#E9D75A"
         },
         {
             "name": "Conifer",
-            "value": "#acdd4d"
+            "value": "#ACDD4D"
         },
         {
             "name": "Contessa",
-            "value": "#c6726b"
+            "value": "#C6726B"
         },
         {
             "name": "Cool",
-            "value": "#8c92ac"
+            "value": "#8C92AC"
         },
         {
             "name": "Copper",
-            "value": "#b87333"
+            "value": "#B87333"
         },
         {
             "name": "Coquelicot",
-            "value": "#ff3800"
+            "value": "#FF3800"
         },
         {
             "name": "Coral",
-            "value": "#ff7f50"
+            "value": "#FF7F50"
         },
         {
             "name": "Cordovan",
-            "value": "#893f45"
+            "value": "#893F45"
         },
         {
             "name": "Corduroy",
-            "value": "#606e68"
+            "value": "#606E68"
         },
         {
             "name": "Coriander",
-            "value": "#c4d0b0"
+            "value": "#C4D0B0"
         },
         {
             "name": "Cork",
-            "value": "#40291d"
+            "value": "#40291D"
         },
         {
             "name": "Corn",
-            "value": "#e7bf05"
+            "value": "#FBEC5D"
         },
         {
             "name": "Cornsilk",
-            "value": "#fff8dc"
+            "value": "#FFF8DC"
         },
         {
             "name": "Corvette",
-            "value": "#fad3a2"
+            "value": "#FAD3A2"
         },
         {
             "name": "Cosmic",
-            "value": "#76395d"
+            "value": "#76395D"
         },
         {
             "name": "Cosmos",
-            "value": "#ffd8d9"
+            "value": "#FFD8D9"
         },
         {
             "name": "Cowboy",
-            "value": "#4d282d"
+            "value": "#4D282D"
         },
         {
             "name": "Crail",
-            "value": "#b95140"
+            "value": "#B95140"
         },
         {
             "name": "Cranberry",
-            "value": "#db5079"
+            "value": "#DB5079"
         },
         {
             "name": "Cream",
-            "value": "#fffdd0"
+            "value": "#FFFDD0"
         },
         {
             "name": "Creole",
-            "value": "#1e0f04"
+            "value": "#1E0F04"
         },
         {
             "name": "Crete",
@@ -1083,19 +1055,19 @@ export default function ShufflePass(): { password: string, colour: string, colou
         },
         {
             "name": "Crimson",
-            "value": "#dc143c"
+            "value": "#DC143C"
         },
         {
             "name": "Crocodile",
-            "value": "#736d58"
+            "value": "#736D58"
         },
         {
             "name": "Crowshead",
-            "value": "#1c1208"
+            "value": "#1C1208"
         },
         {
             "name": "Cruise",
-            "value": "#b5ecdf"
+            "value": "#B5ECDF"
         },
         {
             "name": "Crusoe",
@@ -1103,7 +1075,11 @@ export default function ShufflePass(): { password: string, colour: string, colou
         },
         {
             "name": "Crusta",
-            "value": "#fd7b33"
+            "value": "#FD7B33"
+        },
+        {
+            "name": "Cultured",
+            "value": "#F5F5F5"
         },
         {
             "name": "Cumin",
@@ -1111,27 +1087,27 @@ export default function ShufflePass(): { password: string, colour: string, colou
         },
         {
             "name": "Cumulus",
-            "value": "#fdffd5"
+            "value": "#FDFFD5"
         },
         {
             "name": "Cupid",
-            "value": "#fbbeda"
+            "value": "#FBBEDA"
         },
         {
             "name": "Cyan",
-            "value": "#00ffff"
+            "value": "#00FFFF"
         },
         {
             "name": "Cyclamen",
-            "value": "#f56fa1"
+            "value": "#F56FA1"
         },
         {
             "name": "Cyprus",
-            "value": "#003e40"
+            "value": "#003E40"
         },
         {
             "name": "Daffodil",
-            "value": "#ffff31"
+            "value": "#FFFF31"
         },
         {
             "name": "Daintree",
@@ -1139,27 +1115,27 @@ export default function ShufflePass(): { password: string, colour: string, colou
         },
         {
             "name": "Dallas",
-            "value": "#6e4b26"
+            "value": "#6E4B26"
         },
         {
             "name": "Dandelion",
-            "value": "#f0e130"
+            "value": "#F0E130"
         },
         {
             "name": "Danube",
-            "value": "#6093d1"
+            "value": "#6093D1"
         },
         {
             "name": "Dawn",
-            "value": "#a6a29a"
+            "value": "#A6A29A"
         },
         {
             "name": "Deco",
-            "value": "#d2da97"
+            "value": "#D2DA97"
         },
         {
             "name": "Deer",
-            "value": "#ba8759"
+            "value": "#BA8759"
         },
         {
             "name": "Dell",
@@ -1167,35 +1143,35 @@ export default function ShufflePass(): { password: string, colour: string, colou
         },
         {
             "name": "Delta",
-            "value": "#a4a49d"
+            "value": "#A4A49D"
         },
         {
             "name": "Deluge",
-            "value": "#7563a8"
+            "value": "#7563A8"
         },
         {
             "name": "Denim",
-            "value": "#1560bd"
+            "value": "#1560BD"
         },
         {
             "name": "Derby",
-            "value": "#ffeed8"
+            "value": "#FFEED8"
         },
         {
             "name": "Desert",
-            "value": "#ae6020"
+            "value": "#C19A6B"
         },
         {
             "name": "Desire",
-            "value": "#ea3c53"
+            "value": "#EA3C53"
         },
         {
             "name": "Dew",
-            "value": "#eafffe"
+            "value": "#EAFFFE"
         },
         {
             "name": "Diamond",
-            "value": "#b9f2ff"
+            "value": "#B9F2FF"
         },
         {
             "name": "Diesel",
@@ -1203,11 +1179,11 @@ export default function ShufflePass(): { password: string, colour: string, colou
         },
         {
             "name": "Dingley",
-            "value": "#5d7747"
+            "value": "#5D7747"
         },
         {
             "name": "Dirt",
-            "value": "#9b7653"
+            "value": "#9B7653"
         },
         {
             "name": "Disco",
@@ -1215,15 +1191,15 @@ export default function ShufflePass(): { password: string, colour: string, colou
         },
         {
             "name": "Dixie",
-            "value": "#e29418"
+            "value": "#E29418"
         },
         {
             "name": "Dogs",
-            "value": "#b86d29"
+            "value": "#B86D29"
         },
         {
             "name": "Dolly",
-            "value": "#f9ff8b"
+            "value": "#F9FF8B"
         },
         {
             "name": "Dolphin",
@@ -1231,15 +1207,15 @@ export default function ShufflePass(): { password: string, colour: string, colou
         },
         {
             "name": "Domino",
-            "value": "#8e775e"
+            "value": "#8E775E"
         },
         {
             "name": "Dorado",
-            "value": "#6b5755"
+            "value": "#6B5755"
         },
         {
             "name": "Dove",
-            "value": "#6d6c6c"
+            "value": "#6D6C6C"
         },
         {
             "name": "Downriver",
@@ -1247,15 +1223,19 @@ export default function ShufflePass(): { password: string, colour: string, colou
         },
         {
             "name": "Downy",
-            "value": "#6fd0c5"
+            "value": "#6FD0C5"
+        },
+        {
+            "name": "Drab",
+            "value": "#967117"
         },
         {
             "name": "Driftwood",
-            "value": "#af8751"
+            "value": "#AF8751"
         },
         {
             "name": "Drover",
-            "value": "#fdf7ad"
+            "value": "#FDF7AD"
         },
         {
             "name": "Dune",
@@ -1263,27 +1243,87 @@ export default function ShufflePass(): { password: string, colour: string, colou
         },
         {
             "name": "Dusty",
-            "value": "#a8989b"
+            "value": "#A8989B"
         },
         {
             "name": "Eagle",
-            "value": "#b6baa4"
+            "value": "#B6BAA4"
         },
         {
             "name": "Eastside",
-            "value": "#ac91ce"
+            "value": "#AC91CE"
         },
         {
             "name": "Ebb",
-            "value": "#e9e3e3"
+            "value": "#E9E3E3"
         },
         {
             "name": "Ebony",
-            "value": "#555d50"
+            "value": "#555D50"
+        },
+        {
+            "name": "Eclipse",
+            "value": "#311C17"
+        },
+        {
+            "name": "Ecru",
+            "value": "#C2B280"
+        },
+        {
+            "name": "Ecstasy",
+            "value": "#FA7814"
+        },
+        {
+            "name": "Eden",
+            "value": "#105852"
+        },
+        {
+            "name": "Edgewater",
+            "value": "#C8E3D7"
+        },
+        {
+            "name": "Edward",
+            "value": "#A2AEAB"
+        },
+        {
+            "name": "Eerie",
+            "value": "#1B1B1B"
+        },
+        {
+            "name": "Egg",
+            "value": "#FFF4DD"
+        },
+        {
+            "name": "Eggplant",
+            "value": "#614051"
+        },
+        {
+            "name": "Eggshell",
+            "value": "#F0EAD6"
+        },
+        {
+            "name": "Egyptian",
+            "value": "#1034A6"
+        },
+        {
+            "name": "Electric",
+            "value": "#7DF9FF"
+        },
+        {
+            "name": "Elephant",
+            "value": "#123447"
+        },
+        {
+            "name": "Elm",
+            "value": "#1C7C7D"
+        },
+        {
+            "name": "Emerald",
+            "value": "#50C878"
         },
         {
             "name": "Eminence",
-            "value": "#6c3082"
+            "value": "#6C3082"
         },
         {
             "name": "Emperor",
@@ -1295,19 +1335,19 @@ export default function ShufflePass(): { password: string, colour: string, colou
         },
         {
             "name": "Endeavour",
-            "value": "#0056a7"
+            "value": "#0056A7"
         },
         {
             "name": "Energetic",
-            "value": "#f8dd5c"
+            "value": "#F8DD5C"
         },
         {
             "name": "Envy",
-            "value": "#8ba690"
+            "value": "#8BA690"
         },
         {
             "name": "Equator",
-            "value": "#e1bc64"
+            "value": "#E1BC64"
         },
         {
             "name": "Espresso",
@@ -1315,75 +1355,79 @@ export default function ShufflePass(): { password: string, colour: string, colou
         },
         {
             "name": "Eternity",
-            "value": "#211a0e"
+            "value": "#211A0E"
         },
         {
             "name": "Eucalyptus",
-            "value": "#44d7a8"
+            "value": "#44D7A8"
         },
         {
             "name": "Eunry",
-            "value": "#cfa39d"
+            "value": "#CFA39D"
         },
         {
             "name": "Evening",
-            "value": "#024e46"
+            "value": "#024E46"
         },
         {
             "name": "Everglade",
-            "value": "#1c402e"
+            "value": "#1C402E"
         },
         {
             "name": "Falcon",
-            "value": "#7f626d"
+            "value": "#7F626D"
         },
         {
             "name": "Fallow",
-            "value": "#c19a6b"
+            "value": "#C19A6B"
         },
         {
             "name": "Fandango",
-            "value": "#b53389"
+            "value": "#B53389"
         },
         {
             "name": "Fantasy",
-            "value": "#faf3f0"
+            "value": "#FAF3F0"
         },
         {
             "name": "Fawn",
-            "value": "#e5aa70"
+            "value": "#E5AA70"
         },
         {
             "name": "Fedora",
-            "value": "#796a78"
+            "value": "#796A78"
         },
         {
             "name": "Feijoa",
-            "value": "#9fdd8c"
+            "value": "#9FDD8C"
         },
         {
             "name": "Feldgrau",
-            "value": "#4d5d53"
+            "value": "#4D5D53"
+        },
+        {
+            "name": "Feldspar",
+            "value": "#FDD5B1"
         },
         {
             "name": "Fern",
-            "value": "#63b76c"
+            "value": "#63B76C"
         },
         {
             "name": "Ferra",
-            "value": "#704f50"
+            "value": "#704F50"
         },
         {
             "name": "Festival",
-            "value": "#fbe96c"
+            "value": "#FBE96C"
         },
         {
             "name": "Feta",
-            "value": "#f0fcea"
+            "value": "#F0FCEA"
         },
         {
             "name": "Fiery",
-            "value": "#ff5470"
+            "value": "#FF5470"
         },
         {
             "name": "Finch",
@@ -1391,11 +1435,11 @@ export default function ShufflePass(): { password: string, colour: string, colou
         },
         {
             "name": "Finlandia",
-            "value": "#556d56"
+            "value": "#556D56"
         },
         {
             "name": "Finn",
-            "value": "#692d54"
+            "value": "#692D54"
         },
         {
             "name": "Fiord",
@@ -1403,179 +1447,183 @@ export default function ShufflePass(): { password: string, colour: string, colou
         },
         {
             "name": "Fire",
-            "value": "#aa4203"
+            "value": "#AA4203"
         },
         {
             "name": "Firebrick",
-            "value": "#b22222"
+            "value": "#B22222"
         },
         {
             "name": "Firefly",
-            "value": "#0e2a30"
+            "value": "#0E2A30"
         },
         {
             "name": "Flame",
-            "value": "#e25822"
+            "value": "#E25822"
         },
         {
             "name": "Flamenco",
-            "value": "#ff7d07"
+            "value": "#FF7D07"
         },
         {
             "name": "Flamingo",
-            "value": "#f2552a"
+            "value": "#F2552A"
+        },
+        {
+            "name": "Flattery",
+            "value": "#6B4423"
         },
         {
             "name": "Flavescent",
-            "value": "#f7e98e"
+            "value": "#F7E98E"
         },
         {
             "name": "Flax",
-            "value": "#eedc82"
+            "value": "#EEDC82"
         },
         {
             "name": "Flint",
-            "value": "#6f6a61"
+            "value": "#6F6A61"
         },
         {
             "name": "Flirt",
-            "value": "#a2006d"
+            "value": "#A2006D"
         },
         {
             "name": "Foam",
-            "value": "#d8fcfa"
+            "value": "#D8FCFA"
         },
         {
             "name": "Fog",
-            "value": "#d7d0ff"
+            "value": "#D7D0FF"
         },
         {
             "name": "Folly",
-            "value": "#ff004f"
+            "value": "#FF004F"
         },
         {
             "name": "Frangipani",
-            "value": "#ffdeb3"
+            "value": "#FFDEB3"
         },
         {
             "name": "Fresh",
-            "value": "#a6e7ff"
+            "value": "#A6E7FF"
+        },
+        {
+            "name": "Frogert",
+            "value": "#E936A7"
         },
         {
             "name": "Froly",
-            "value": "#f57584"
+            "value": "#F57584"
         },
         {
             "name": "Frost",
-            "value": "#edf5dd"
+            "value": "#EDF5DD"
         },
         {
             "name": "Frostbite",
-            "value": "#e936a7"
+            "value": "#E936A7"
         },
         {
             "name": "Frostee",
-            "value": "#e4f6e7"
+            "value": "#E4F6E7"
         },
         {
             "name": "Fuchsia",
-            "value": "#ff00ff"
+            "value": "#FF00FF"
         },
         {
             "name": "Fuego",
-            "value": "#bede0d"
+            "value": "#BEDE0D"
         },
         {
             "name": "Fulvous",
-            "value": "#e48400"
+            "value": "#E48400"
         },
         {
             "name": "Fuzzywuzzy",
-            "value": "#cc6666"
+            "value": "#CC6666"
         },
         {
             "name": "Gainsboro",
-            "value": "#dcdcdc"
+            "value": "#DCDCDC"
         },
         {
             "name": "Gallery",
-            "value": "#efefef"
+            "value": "#EFEFEF"
         },
         {
             "name": "Galliano",
-            "value": "#dcb20c"
+            "value": "#DCB20C"
         },
         {
             "name": "Gamboge",
-            "value": "#e49b0f"
+            "value": "#E49B0F"
         },
         {
             "name": "Geebung",
-            "value": "#d18f1b"
-        },
-        {
-            "name": "Viridian",
-            "value": "#007f66"
+            "value": "#D18F1B"
         },
         {
             "name": "Genoa",
-            "value": "#15736b"
+            "value": "#15736B"
         },
         {
             "name": "Geraldine",
-            "value": "#fb8989"
+            "value": "#FB8989"
         },
         {
             "name": "Geyser",
-            "value": "#d4dfe2"
+            "value": "#D4DFE2"
         },
         {
             "name": "Ghost",
-            "value": "#c7c9d5"
+            "value": "#C7C9D5"
         },
         {
             "name": "Gigas",
-            "value": "#523c94"
+            "value": "#523C94"
         },
         {
             "name": "Gimblet",
-            "value": "#b8b56a"
+            "value": "#B8B56A"
         },
         {
             "name": "Gin",
-            "value": "#e8f2eb"
+            "value": "#E8F2EB"
         },
         {
             "name": "Ginger",
-            "value": "#b06500"
+            "value": "#B06500"
         },
         {
             "name": "Givry",
-            "value": "#f8e4bf"
+            "value": "#F8E4BF"
         },
         {
             "name": "Glacier",
-            "value": "#80b3c4"
+            "value": "#80B3C4"
         },
         {
             "name": "Glaucous",
-            "value": "#6082b6"
+            "value": "#6082B6"
         },
         {
             "name": "Glitter",
-            "value": "#e6e8fa"
+            "value": "#E6E8FA"
         },
         {
             "name": "Goblin",
-            "value": "#3d7d52"
+            "value": "#3D7D52"
         },
         {
             "name": "Golden",
-            "value": "#ffd700"
+            "value": "#FFD700"
         },
         {
             "name": "Goldenrod",
-            "value": "#daa520"
+            "value": "#DAA520"
         },
         {
             "name": "Gondola",
@@ -1583,23 +1631,23 @@ export default function ShufflePass(): { password: string, colour: string, colou
         },
         {
             "name": "Gorse",
-            "value": "#fff14f"
+            "value": "#FFF14F"
         },
         {
             "name": "Gossamer",
-            "value": "#069b81"
+            "value": "#069B81"
         },
         {
             "name": "Gossip",
-            "value": "#d2f8b0"
+            "value": "#D2F8B0"
         },
         {
             "name": "Gothic",
-            "value": "#6d92a1"
+            "value": "#6D92A1"
         },
         {
             "name": "Grandis",
-            "value": "#ffd38c"
+            "value": "#FFD38C"
         },
         {
             "name": "Granite",
@@ -1607,11 +1655,11 @@ export default function ShufflePass(): { password: string, colour: string, colou
         },
         {
             "name": "Grannysmith",
-            "value": "#84a0a0"
+            "value": "#84A0A0"
         },
         {
             "name": "Grape",
-            "value": "#6f2da8"
+            "value": "#6F2DA8"
         },
         {
             "name": "Graphite",
@@ -1619,7 +1667,7 @@ export default function ShufflePass(): { password: string, colour: string, colou
         },
         {
             "name": "Gravel",
-            "value": "#4a444b"
+            "value": "#4A444B"
         },
         {
             "name": "Gray",
@@ -1627,11 +1675,11 @@ export default function ShufflePass(): { password: string, colour: string, colou
         },
         {
             "name": "Green",
-            "value": "#00ff00"
+            "value": "#00FF00"
         },
         {
             "name": "Grenadier",
-            "value": "#d54600"
+            "value": "#D54600"
         },
         {
             "name": "Grizzly",
@@ -1639,11 +1687,11 @@ export default function ShufflePass(): { password: string, colour: string, colou
         },
         {
             "name": "Grullo",
-            "value": "#a99a86"
+            "value": "#A99A86"
         },
         {
             "name": "Gumbo",
-            "value": "#7ca1a6"
+            "value": "#7CA1A6"
         },
         {
             "name": "Gunmetal",
@@ -1655,27 +1703,27 @@ export default function ShufflePass(): { password: string, colour: string, colou
         },
         {
             "name": "Gurkha",
-            "value": "#9a9577"
+            "value": "#9A9577"
         },
         {
             "name": "Hacienda",
-            "value": "#98811b"
+            "value": "#98811B"
         },
         {
             "name": "Haiti",
-            "value": "#1b1035"
+            "value": "#1B1035"
         },
         {
             "name": "Hampton",
-            "value": "#e5d8af"
+            "value": "#E5D8AF"
         },
         {
             "name": "Harlequin",
-            "value": "#3fff00"
+            "value": "#3FFF00"
         },
         {
             "name": "Harp",
-            "value": "#e6f2ea"
+            "value": "#E6F2EA"
         },
         {
             "name": "Heath",
@@ -1683,15 +1731,15 @@ export default function ShufflePass(): { password: string, colour: string, colou
         },
         {
             "name": "Heather",
-            "value": "#b7c3d0"
+            "value": "#B7C3D0"
         },
         {
             "name": "Heliotrope",
-            "value": "#df73ff"
+            "value": "#DF73FF"
         },
         {
             "name": "Hemlock",
-            "value": "#5e5d3b"
+            "value": "#5E5D3B"
         },
         {
             "name": "Hemp",
@@ -1699,99 +1747,773 @@ export default function ShufflePass(): { password: string, colour: string, colou
         },
         {
             "name": "Hibiscus",
-            "value": "#b6316c"
+            "value": "#B6316C"
         },
         {
             "name": "Highland",
-            "value": "#6f8e63"
+            "value": "#6F8E63"
         },
         {
             "name": "Hillary",
-            "value": "#aca586"
+            "value": "#ACA586"
         },
         {
             "name": "Himalaya",
-            "value": "#6a5d1b"
+            "value": "#6A5D1B"
         },
         {
             "name": "Hoki",
-            "value": "#65869f"
+            "value": "#65869F"
         },
         {
             "name": "Holly",
-            "value": "#011d13"
+            "value": "#011D13"
         },
         {
             "name": "Honeydew",
-            "value": "#f0fff0"
+            "value": "#F0FFF0"
         },
         {
             "name": "Honeysuckle",
-            "value": "#edfc84"
+            "value": "#EDFC84"
         },
         {
             "name": "Hopbush",
-            "value": "#d06da1"
+            "value": "#D06DA1"
         },
         {
             "name": "Horizon",
-            "value": "#5a87a0"
+            "value": "#5A87A0"
         },
         {
             "name": "Horses",
-            "value": "#543d37"
+            "value": "#543D37"
         },
         {
             "name": "Hurricane",
-            "value": "#877c7b"
+            "value": "#877C7B"
+        },
+        {
+            "name": "Iceberg",
+            "value": "#71A6D2"
+        },
+        {
+            "name": "Icterine",
+            "value": "#FCF75E"
+        },
+        {
+            "name": "Imperial",
+            "value": "#602F6B"
+        },
+        {
+            "name": "Inchworm",
+            "value": "#B2EC5D"
+        },
+        {
+            "name": "Independence",
+            "value": "#4C516D"
+        },
+        {
+            "name": "Indigo",
+            "value": "#4B0082"
+        },
+        {
+            "name": "Iris",
+            "value": "#5A4FCF"
+        },
+        {
+            "name": "Irresistible",
+            "value": "#B3446C"
+        },
+        {
+            "name": "Isabelline",
+            "value": "#F4F0EC"
+        },
+        {
+            "name": "Ivory",
+            "value": "#FFFFF0"
+        },
+        {
+            "name": "Jade",
+            "value": "#00A86B"
+        },
+        {
+            "name": "Jasmine",
+            "value": "#F8DE7E"
+        },
+        {
+            "name": "Jasper",
+            "value": "#D73B3E"
+        },
+        {
+            "name": "Jet",
+            "value": "#343434"
+        },
+        {
+            "name": "Jonquil",
+            "value": "#F4CA16"
+        },
+        {
+            "name": "Keppel",
+            "value": "#3AB09E"
+        },
+        {
+            "name": "Kiwi",
+            "value": "#8EE53F"
+        },
+        {
+            "name": "Kobe",
+            "value": "#882D17"
+        },
+        {
+            "name": "Kobi",
+            "value": "#E79FC4"
+        },
+        {
+            "name": "Kobicha",
+            "value": "#6B4423"
+        },
+        {
+            "name": "Lava",
+            "value": "#CF1020"
+        },
+        {
+            "name": "Lemon",
+            "value": "#FFF700"
+        },
+        {
+            "name": "Liberty",
+            "value": "#545AA7"
+        },
+        {
+            "name": "Licorice",
+            "value": "#1A1110"
+        },
+        {
+            "name": "Lilac",
+            "value": "#C8A2C8"
+        },
+        {
+            "name": "Limerick",
+            "value": "#9DC209"
+        },
+        {
+            "name": "Linen",
+            "value": "#FAF0E6"
+        },
+        {
+            "name": "Liver",
+            "value": "#674C47"
+        },
+        {
+            "name": "Livid",
+            "value": "#6699CC"
+        },
+        {
+            "name": "Lumber",
+            "value": "#FFE4CD"
+        },
+        {
+            "name": "Lust",
+            "value": "#E62020"
+        },
+        {
+            "name": "Magenta",
+            "value": "#FF00FF"
+        },
+        {
+            "name": "Magnolia",
+            "value": "#F8F4FF"
+        },
+        {
+            "name": "Mahogany",
+            "value": "#C04000"
+        },
+        {
+            "name": "Maize",
+            "value": "#FBEC5D"
+        },
+        {
+            "name": "Malachite",
+            "value": "#0BDA51"
+        },
+        {
+            "name": "Manatee",
+            "value": "#979AAA"
+        },
+        {
+            "name": "Mandarin",
+            "value": "#F37A48"
+        },
+        {
+            "name": "Mantis",
+            "value": "#74C365"
+        },
+        {
+            "name": "Marigold",
+            "value": "#EAA221"
+        },
+        {
+            "name": "Mauve",
+            "value": "#E0B0FF"
+        },
+        {
+            "name": "Mauvelous",
+            "value": "#EF98AA"
+        },
+        {
+            "name": "Melon",
+            "value": "#FDBCB4"
+        },
+        {
+            "name": "Midnight",
+            "value": "#702670"
+        },
+        {
+            "name": "Milk",
+            "value": "#FDFFF5"
+        },
+        {
+            "name": "Mindaro",
+            "value": "#E3F988"
+        },
+        {
+            "name": "Ming",
+            "value": "#36747D"
+        },
+        {
+            "name": "Mint",
+            "value": "#3EB489"
+        },
+        {
+            "name": "Moccasin",
+            "value": "#FAEBD7"
+        },
+        {
+            "name": "Mulberry",
+            "value": "#C54B8C"
+        },
+        {
+            "name": "Mustard",
+            "value": "#FFDB58"
+        },
+        {
+            "name": "Mystic",
+            "value": "#D65282"
+        },
+        {
+            "name": "Navy",
+            "value": "#000080"
+        },
+        {
+            "name": "Nickel",
+            "value": "#727472"
+        },
+        {
+            "name": "Nyanza",
+            "value": "#E9FFDB"
+        },
+        {
+            "name": "Ochre",
+            "value": "#CC7722"
+        },
+        {
+            "name": "Olive",
+            "value": "#808000"
+        },
+        {
+            "name": "Olivine",
+            "value": "#9AB973"
+        },
+        {
+            "name": "Onyx",
+            "value": "#353839"
+        },
+        {
+            "name": "Orchid",
+            "value": "#DA70D6"
+        },
+        {
+            "name": "Patriarch",
+            "value": "#800080"
+        },
+        {
+            "name": "Peach",
+            "value": "#FFCBA4"
+        },
+        {
+            "name": "Pear",
+            "value": "#D1E231"
+        },
+        {
+            "name": "Pearl",
+            "value": "#EAE0C8"
+        },
+        {
+            "name": "Peridot",
+            "value": "#E6E200"
+        },
+        {
+            "name": "Periwinkle",
+            "value": "#CCCCFF"
+        },
+        {
+            "name": "Persimmon",
+            "value": "#EC5800"
+        },
+        {
+            "name": "Peru",
+            "value": "#CD853F"
+        },
+        {
+            "name": "Phlox",
+            "value": "#DF00FF"
+        },
+        {
+            "name": "Pineapple",
+            "value": "#563C0D"
+        },
+        {
+            "name": "Pink",
+            "value": "#FFC0CB"
+        },
+        {
+            "name": "Pistachio",
+            "value": "#93C572"
+        },
+        {
+            "name": "Platinum",
+            "value": "#E5E4E2"
+        },
+        {
+            "name": "Plum",
+            "value": "#8E4585"
+        },
+        {
+            "name": "Popstar",
+            "value": "#BE4F62"
+        },
+        {
+            "name": "Prune",
+            "value": "#701C1C"
+        },
+        {
+            "name": "Puce",
+            "value": "#CC8899"
+        },
+        {
+            "name": "Pumpkin",
+            "value": "#FF7518"
+        },
+        {
+            "name": "Purpureus",
+            "value": "#9A4EAE"
+        },
+        {
+            "name": "Quartz",
+            "value": "#51484F"
+        },
+        {
+            "name": "Rackley",
+            "value": "#5D8AA8"
+        },
+        {
+            "name": "Rajah",
+            "value": "#FBAB60"
+        },
+        {
+            "name": "Raspberry",
+            "value": "#E30B5D"
+        },
+        {
+            "name": "Razzmatazz",
+            "value": "#E3256B"
+        },
+        {
+            "name": "Red",
+            "value": "#FF0000"
+        },
+        {
+            "name": "Redwood",
+            "value": "#A45A52"
+        },
+        {
+            "name": "Regalia",
+            "value": "#522D80"
+        },
+        {
+            "name": "Rhythm",
+            "value": "#777696"
+        },
+        {
+            "name": "Rose",
+            "value": "#FF007F"
+        },
+        {
+            "name": "Rosewood",
+            "value": "#65000B"
+        },
+        {
+            "name": "Ruber",
+            "value": "#CE4676"
+        },
+        {
+            "name": "Ruby",
+            "value": "#E0115F"
+        },
+        {
+            "name": "Ruddy",
+            "value": "#FF0028"
+        },
+        {
+            "name": "Rufous",
+            "value": "#A81C07"
+        },
+        {
+            "name": "Russet",
+            "value": "#80461B"
+        },
+        {
+            "name": "Rust",
+            "value": "#B7410E"
+        },
+        {
+            "name": "Saffron",
+            "value": "#F4C430"
+        },
+        {
+            "name": "Sage",
+            "value": "#BCB88A"
+        },
+        {
+            "name": "Salmon",
+            "value": "#FA8072"
+        },
+        {
+            "name": "Sand",
+            "value": "#C2B280"
+        },
+        {
+            "name": "Sandstorm",
+            "value": "#ECD540"
+        },
+        {
+            "name": "Sangria",
+            "value": "#92000A"
+        },
+        {
+            "name": "Sapphire",
+            "value": "#0F52BA"
+        },
+        {
+            "name": "Scarlet",
+            "value": "#FD0E35"
+        },
+        {
+            "name": "Seashell",
+            "value": "#FFF5EE"
+        },
+        {
+            "name": "Sepia",
+            "value": "#704214"
+        },
+        {
+            "name": "Shadow",
+            "value": "#8A795D"
+        },
+        {
+            "name": "Shampoo",
+            "value": "#FFCFF1"
+        },
+        {
+            "name": "Sienna",
+            "value": "#882D17"
+        },
+        {
+            "name": "Silver",
+            "value": "#C0C0C0"
+        },
+        {
+            "name": "Sinopia",
+            "value": "#CB410B"
+        },
+        {
+            "name": "Skobeloff",
+            "value": "#007474"
+        },
+        {
+            "name": "Smitten",
+            "value": "#C84186"
+        },
+        {
+            "name": "Smoke",
+            "value": "#738276"
+        },
+        {
+            "name": "Snow",
+            "value": "#FFFAFA"
+        },
+        {
+            "name": "Soap",
+            "value": "#CEC8EF"
+        },
+        {
+            "name": "Stizza",
+            "value": "#990000"
+        },
+        {
+            "name": "Stormcloud",
+            "value": "#4F666A"
+        },
+        {
+            "name": "Straw",
+            "value": "#E4D96F"
+        },
+        {
+            "name": "Strawberry",
+            "value": "#FC5A8D"
+        },
+        {
+            "name": "Sunglow",
+            "value": "#FFCC33"
+        },
+        {
+            "name": "Sunny",
+            "value": "#F2F27A"
+        },
+        {
+            "name": "Sunray",
+            "value": "#E3AB57"
+        },
+        {
+            "name": "Sunset",
+            "value": "#FAD6A5"
+        },
+        {
+            "name": "Tan",
+            "value": "#D2B48C"
+        },
+        {
+            "name": "Tangelo",
+            "value": "#F94D00"
+        },
+        {
+            "name": "Tangerine",
+            "value": "#F28500"
+        },
+        {
+            "name": "Taupe",
+            "value": "#483C32"
+        },
+        {
+            "name": "Teal",
+            "value": "#008080"
+        },
+        {
+            "name": "Telemagenta",
+            "value": "#CF3476"
+        },
+        {
+            "name": "Thistle",
+            "value": "#D8BFD8"
+        },
+        {
+            "name": "Timberwolf",
+            "value": "#DBD7D2"
+        },
+        {
+            "name": "Tomato",
+            "value": "#FF6347"
+        },
+        {
+            "name": "Toolbox",
+            "value": "#746CC0"
+        },
+        {
+            "name": "Topaz",
+            "value": "#FFC87C"
+        },
+        {
+            "name": "Tulip",
+            "value": "#FF878D"
+        },
+        {
+            "name": "Tumbleweed",
+            "value": "#DEAA88"
+        },
+        {
+            "name": "Turquoise",
+            "value": "#40E0D0"
+        },
+        {
+            "name": "Tuscan",
+            "value": "#FAD6A5"
+        },
+        {
+            "name": "Tuscany",
+            "value": "#C09999"
+        },
+        {
+            "name": "Ube",
+            "value": "#8878C3"
+        },
+        {
+            "name": "Ultramarine",
+            "value": "#3F00FF"
+        },
+        {
+            "name": "Umber",
+            "value": "#635147"
+        },
+        {
+            "name": "Urobilin",
+            "value": "#E1AD21"
+        },
+        {
+            "name": "Vanilla",
+            "value": "#F3E5AB"
+        },
+        {
+            "name": "Verdigris",
+            "value": "#43B3AE"
+        },
+        {
+            "name": "Vermilion",
+            "value": "#D9381E"
+        },
+        {
+            "name": "Veronica",
+            "value": "#A020F0"
+        },
+        {
+            "name": "Violet",
+            "value": "#8F00FF"
+        },
+        {
+            "name": "Viridian",
+            "value": "#40826D"
+        },
+        {
+            "name": "Volt",
+            "value": "#CEFF00"
+        },
+        {
+            "name": "Waterspout",
+            "value": "#A4F4F9"
+        },
+        {
+            "name": "Wenge",
+            "value": "#645452"
+        },
+        {
+            "name": "Wheat",
+            "value": "#F5DEB3"
+        },
+        {
+            "name": "White",
+            "value": "#FFFFFF"
+        },
+        {
+            "name": "Wine",
+            "value": "#722F37"
+        },
+        {
+            "name": "Wisteria",
+            "value": "#C9A0DC"
+        },
+        {
+            "name": "Xanadu",
+            "value": "#738678"
+        },
+        {
+            "name": "Yellow",
+            "value": "#FFFF00"
+        },
+        {
+            "name": "Zaffre",
+            "value": "#0014A8"
+        },
+        {
+            "name": "Zomp",
+            "value": "#39A78E"
         }
     ]
     const animals = [
         "Aardvark",
+        "Aardwolf",
+        "Adder",
         "Albatross",
         "Alligator",
         "Alpaca",
+        "Anaconda",
         "Ant",
         "Anteater",
         "Antelope",
         "Ape",
         "Armadillo",
+        "Axolotl",
         "Baboon",
         "Badger",
+        "Bandicoot",
+        "Barnacle",
         "Barracuda",
         "Bat",
         "Bear",
         "Beaver",
         "Bee",
+        "Beetle",
+        "Bilby",
         "Bison",
+        "Blackbird",
+        "Bluebird",
         "Boar",
+        "Bobcat",
+        "Bonobo",
+        "Budgerigar",
         "Buffalo",
+        "Bull",
+        "Bullfrog",
         "Butterfly",
+        "Buzzard",
         "Camel",
+        "Canary",
         "Capybara",
         "Caribou",
+        "Carp",
         "Cassowary",
         "Cat",
         "Caterpillar",
+        "Catfish",
         "Cattle",
+        "Centipede",
+        "Chameleon",
         "Chamois",
         "Cheetah",
         "Chicken",
         "Chimpanzee",
         "Chinchilla",
+        "Chipmunk",
         "Chough",
+        "Cicada",
         "Clam",
         "Cobra",
+        "Cockatoo",
         "Cockroach",
         "Cod",
         "Cormorant",
+        "Cougar",
+        "Cow",
         "Coyote",
         "Crab",
         "Crane",
+        "Cricket",
         "Crocodile",
         "Crow",
+        "Cuckoo",
         "Curlew",
+        "Cuttlefish",
         "Deer",
+        "Dingo",
         "Dinosaur",
         "Dog",
         "Dogfish",
@@ -1806,35 +2528,45 @@ export default function ShufflePass(): { password: string, colour: string, colou
         "Eagle",
         "Echidna",
         "Eel",
+        "Egret",
         "Eland",
         "Elephant",
         "Elk",
         "Emu",
+        "Ermine",
         "Falcon",
         "Ferret",
         "Finch",
+        "Firefly",
         "Fish",
         "Flamingo",
+        "Flounder",
         "Fly",
         "Fox",
         "Frog",
         "Gaur",
         "Gazelle",
+        "Gecko",
         "Gerbil",
+        "Gibbon",
         "Giraffe",
         "Gnat",
         "Gnu",
         "Goat",
-        "Goose",
         "Goldfinch",
         "Goldfish",
+        "Goose",
         "Gorilla",
         "Goshawk",
         "Grasshopper",
+        "Grebe",
         "Grouse",
         "Guanaco",
         "Guineapig",
         "Gull",
+        "Guppy",
+        "Haddock",
+        "Halibut",
         "Hamster",
         "Hare",
         "Hawk",
@@ -1847,98 +2579,144 @@ export default function ShufflePass(): { password: string, colour: string, colou
         "Human",
         "Hummingbird",
         "Hyena",
+        "Hyrax",
         "Ibex",
         "Ibis",
+        "Iguana",
+        "Impala",
         "Jackal",
+        "Jackrabbit",
         "Jaguar",
         "Jay",
         "Jellyfish",
         "Kangaroo",
+        "Kestrel",
         "Kingfisher",
+        "Kiwi",
         "Koala",
         "Komodo",
         "Kookabura",
         "Kouprey",
+        "Krill",
         "Kudu",
+        "Ladybird",
         "Lapwing",
         "Lark",
+        "Leech",
         "Lemur",
         "Leopard",
+        "Limpet",
         "Lion",
+        "Lizard",
         "Llama",
         "Lobster",
         "Locust",
         "Loris",
         "Louse",
+        "Lynx",
         "Lyrebird",
+        "Macaw",
+        "Mackerel",
         "Magpie",
         "Mallard",
+        "Mammoth",
         "Manatee",
         "Mandrill",
         "Mantis",
+        "Marmot",
         "Marten",
         "Meerkat",
+        "Millipede",
         "Mink",
         "Mole",
         "Mongoose",
         "Monkey",
         "Moose",
-        "Mouse",
         "Mosquito",
+        "Moth",
+        "Mouse",
         "Mule",
+        "Mussel",
         "Narwhal",
+        "Nautilus",
         "Newt",
         "Nightingale",
+        "Numbat",
+        "Ocelot",
         "Octopus",
         "Okapi",
         "Opossum",
+        "Orangutan",
+        "Orca",
         "Oryx",
+        "Osprey",
         "Ostrich",
         "Otter",
         "Owl",
         "Ox",
         "Oyster",
+        "Panda",
+        "Pangolin",
         "Panther",
+        "Parakeet",
         "Parrot",
         "Partridge",
         "Peafowl",
         "Pelican",
         "Penguin",
+        "Perch",
         "Pheasant",
         "Pig",
         "Pigeon",
+        "Piranha",
+        "Platypus",
         "Polarbear",
         "Pony",
         "Porcupine",
         "Porpoise",
+        "Possum",
         "Prairiedog",
+        "Puffin",
+        "Puma",
+        "Python",
         "Quail",
         "Quelea",
         "Quetzal",
+        "Quokka",
+        "Quoll",
         "Rabbit",
         "Raccoon",
         "Rail",
         "Ram",
         "Rat",
+        "Rattlesnake",
         "Raven",
+        "Redpanda",
         "Reindeer",
         "Rhinoceros",
+        "Robin",
         "Rook",
+        "Sable",
         "Salamander",
         "Salmon",
         "Sandpiper",
         "Sardine",
         "Scorpion",
-        "Sealion",
-        "Seaurchin",
         "Seahorse",
         "Seal",
+        "Sealion",
+        "Seaotter",
+        "Seaurchin",
+        "Serval",
         "Shark",
         "Sheep",
         "Shrew",
         "Skunk",
+        "Sloth",
+        "Slug",
         "Snail",
         "Snake",
+        "Snowleopard",
         "Sparrow",
         "Spider",
         "Spoonbill",
@@ -1947,26 +2725,39 @@ export default function ShufflePass(): { password: string, colour: string, colou
         "Starling",
         "Stingray",
         "Stinkbug",
+        "Stoat",
         "Stork",
+        "Sturgeon",
         "Swallow",
         "Swan",
+        "Swordfish",
+        "Tadpole",
         "Tapir",
+        "Tarantula",
         "Tarsier",
         "Termite",
         "Tiger",
         "Toad",
+        "Tortoise",
+        "Toucan",
         "Trout",
+        "Tuna",
         "Turkey",
         "Turtle",
         "Vicuña",
         "Viper",
+        "Vole",
         "Vulture",
         "Wallaby",
+        "Wallaroo",
         "Walrus",
+        "Warthog",
         "Wasp",
         "Waterbuffalo",
         "Weasel",
+        "Weevil",
         "Whale",
+        "Wildebeest",
         "Wolf",
         "Wolverine",
         "Wombat",
@@ -1974,8 +2765,11 @@ export default function ShufflePass(): { password: string, colour: string, colou
         "Woodpecker",
         "Worm",
         "Wren",
+        "Xerus",
+        "Yabby",
         "Yak",
-        "Zebra"
+        "Zebra",
+        "Zebu"
     ]
     const keyValues: any = [
         {
